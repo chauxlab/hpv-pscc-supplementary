@@ -1,0 +1,319 @@
+record_id,title,year,R1,R2,consensus,exclusion_reason,source,note
+REC-HPVPSCC-000001,Invasive penile carcinoma: a review.,2004,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000002,"[The 2010 news: highlights of the ASCO-GU, UAE, ASCO, AUA congress…].",2011,Excluded,Excluded,Excluded,wrong publication type,agreement,acuerdo R1=R2
+REC-HPVPSCC-000003,Buschke-Lowenstein tumor.,2008,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000004,Combination of docetaxel and cetuximab for penile cancer: a case report and literature review.,2012,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000005,Immunotherapy in new pre-clinical models of HPV-associated oral cancers.,2013,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000006,Epidermal growth factor receptor (EGFR)-RAS signaling pathway in penile squamous cell carcinoma.,2013,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000007,Cytosolic phosphorylated EGFR is predictive of recurrence in early stage penile cancer patients: a retropective study.,2013,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000008,Epidermal growth factor receptor-targeted therapy in locally advanced or metastatic squamous cell carcinoma of the penis.,2014,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000009,Epidermal growth factor receptor-targeted therapy in squamous cell carcinoma of the penis: a report of 3 cases.,2014,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000010,A case of penile squamous cell carcinoma treated with a combination of antiepidermal growth factor receptor antibody and chemotherapy.,2014,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000011,"Non-squamous cell carcinoma of the penis: single-center, 15-year experience.",2014,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000012,Human Papillomavirus (HPV)-associated Oral Cancers and Treatment Strategies.,2014,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000013,Buschke-Lowenstein tumour of glans penis.,2014,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000014,Classic and nonclassic HLA class I expression in penile cancer and relation to HPV status and clinical outcome.,2015,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000015,Human papilloma virus status of penile squamous cell carcinoma is associated with differences in tumour-infiltrating T lymphocytes.,2015,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000016,Pathologic and imunohistochemical characterization of tumoral inflammatory cell infiltrate in invasive penile squamous cell carcinomas: Fox-P3 expression is an independent predictor of recurrence.,2015,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000017,Mechanisms of virus immune evasion lead to development from chronic inflammation to cancer formation associated with human papillomavirus infection.,2012,Included,Excluded,Excluded,wrong population,consensus,consenso: evasión inmune HPV general; sin datos pSCC
+REC-HPVPSCC-000018,Panitumumab Treatment for Advanced Penile Squamous Cell Carcinoma When Surgery and Chemotherapy Have Failed.,2016,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000019,Comprehensive Genomic Profiling of Advanced Penile Carcinoma Suggests a High Frequency of Clinically Relevant Genomic Alterations.,2016,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000020,Frequent PD-L1 expression in primary and metastatic penile squamous cell carcinoma: potential opportunities for immunotherapeutic approaches.,2016,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000021,PD-L1 expression in penile cancer: a new frontier for immune checkpoint inhibitors?,2016,Included,Excluded,Excluded,wrong publication type,consensus,consenso: editorial Ann Oncol sin datos
+REC-HPVPSCC-000022,Immune-checkpoint status in penile squamous cell carcinoma: a North American cohort.,2017,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000023,Expression of Programmed Death Ligand 1 in Penile Cancer is of Prognostic Value and Associated with HPV Status.,2017,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000024,Penile cancer: Prognostic value of PD-L1 status.,2016,Included,Excluded,Excluded,wrong publication type,consensus,consenso: research highlight Nat Rev Urol
+REC-HPVPSCC-000025,Carbon dioxide laser treatment of penile intraepithelial neoplasia.,2017,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000026,The evolving landscape in advanced penile cancer.,2015,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000027,"Prognostic and Predictive Factors in Patients with Advanced Penile Cancer Receiving Salvage (2nd or Later Line) Systemic Treatment: A Retrospective, Multi-Center Study.",2016,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000028,Tumor PD-L1 expression is correlated with increased TILs and poor prognosis in penile squamous cell carcinoma.,2017,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000029,Kinase analysis of penile squamous cell carcinoma on multiple platforms to identify potential therapeutic targets.,2017,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000030,Evolving adoptive cellular therapies in urological malignancies.,2017,Included,Maybe,Excluded,wrong population,consensus,consenso: adoptive cell GU; pene 1 de 4
+REC-HPVPSCC-000031,Current Management Strategy for Penile Cancer and Future Directions.,2017,Excluded,Included,Excluded,wrong outcome,consensus,consenso: management review; IT no es eje
+REC-HPVPSCC-000032,Neuroendocrine factors: The missing link in non‑melanoma skin cancer (Review).,2017,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000033,Advances in Understanding of Penile Carcinogenesis: The Search for Actionable Targets.,2017,Excluded,Included,Excluded,wrong outcome,consensus,consenso: targets moleculares; IT periférica
+REC-HPVPSCC-000034,Immunotherapy for penile cancer.,2017,Included,Maybe,Included,,consensus,consenso: título IT penile; pasar a FT (verificar tipo)
+REC-HPVPSCC-000035,CD109 expression is upregulated in penile squamous cell carcinoma.,2017,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000036,Beyond chemotherapy for advanced disease-the role of EGFR and PD-1 inhibitors.,2017,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000037,Evidence for Efficacy of Treatment With the Anti-PD-1 Mab Nivolumab in Radiation and Multichemorefractory Advanced Penile Squamous Cell Carcinoma.,2018,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000038,Molecular characterization and integrative genomic analysis of a panel of newly established penile cancer cell lines.,2018,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000039,The Prognostic Value of Immune Factors in the Tumor Microenvironment of Penile Squamous Cell Carcinoma.,2018,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000040,Immunotherapy for advanced penile cancer - rationale and potential.,2018,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000041,Elevated serum LAMC2 is associated with lymph node metastasis and predicts poor prognosis in penile squamous cell carcinoma.,2018,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000042,Comparative Genomic Profiling of Refractory and Metastatic Penile and Nonpenile Cutaneous Squamous Cell Carcinoma: Implications for Selection of Systemic Therapy.,2019,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: genómica TMB/MSI sin TIME
+REC-HPVPSCC-000043,Re: Frequent PD-L1 Expression in Primary and Metastatic Penile Squamous Cell Carcinoma: Potential Opportunities for Immunotherapeutic Approaches.,2018,Excluded,Excluded,Excluded,wrong publication type,agreement,acuerdo R1=R2
+REC-HPVPSCC-000044,The Diagnosis and Treatment of Penile Cancer.,2018,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000045,EGFR mono-antibody salvage therapy for locally advanced and distant metastatic penile cancer: Clinical outcomes and genetic analysis.,2019,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000046,No Evidence of Microsatellite Instability and Loss of Mismatch-Repair-Protein Expression in Squamous Cell Carcinoma of the Penis.,2019,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: MSI/MMR; sin composición TIME
+REC-HPVPSCC-000047,Defining the Tumor Microenvironment of Penile Cancer by Means of the Cancer Immunogram.,2019,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000048,Rare Genitourinary Malignancies: Current Status and Future Directions of Immunotherapy.,2020,Excluded,Maybe,Excluded,wrong population,consensus,consenso: rare GU IT; pene periférico
+REC-HPVPSCC-000049,PD-L1 Expression in Men with Penile Cancer and its Association with Clinical Outcomes.,2019,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000050,Treating Penile Cancer in the Immunotherapy and Targeted Therapy Era.,2019,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000051,Treating advanced penile cancer: where do we stand in 2019?,2019,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000052,Predictors of inguinal lymph node metastasis in penile cancer patients: a meta-analysis of retrospective studies.,2019,Excluded,Included,Included,,consensus,consenso: meta predictores ganglio incluye PD-L1/NLR
+REC-HPVPSCC-000053,Risk factors and molecular characterization of penile cancer: impact on prognosis and potential targets for systemic therapy.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000054,Premalignant male genital dermatoses.,2019,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000055,An update on systemic therapy for penile cancer.,2020,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000056,"Up-regulation of indoleamine 2,3-dioxygenase 1 (IDO1) expression and catalytic activity is associated with immunosuppression and poor prognosis in penile squamous cell carcinoma patients.",2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000057,PD-L1 and p16 Expression in Penile Squamous Cell Carcinoma From an Endemic Region.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000058,PD1/PD-L1 Axis in Uro-oncology.,2020,Included,Maybe,Included,,consensus,consenso: PD1/PD-L1 uro-oncología con sección pene
+REC-HPVPSCC-000059,Effective combinatorial immunotherapy for penile squamous cell carcinoma.,2020,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000060,Recurrent Metastatic Penile Cancer Patient with Positive PD-L1 Expression Obtained Significant Benefit from Immunotherapy: A Case Report and Literature Review.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000061,Immune checkpoint inhibitors in genitourinary malignancies.,2020,Included,Maybe,Included,,consensus,consenso: ICI GU con sección pene
+REC-HPVPSCC-000062,Metastatic penile squamous cell carcinoma with dramatic response to combined checkpoint blockade with ipilimumab and nivolumab.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000063,"A nomogram incorporating PD-L1, NLR, and clinicopathologic features to predict inguinal lymph node metastasis in penile squamous cell carcinoma.",2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000064,Risks from Deferring Treatment for Genitourinary Cancers: A Collaborative Review to Aid Triage and Management During the COVID-19 Pandemic.,2020,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000065,Penile cancer with visceral metastasis and p16/human papillomavirus positivity: An unusual case of long-term survival.,2020,Excluded,Included,Included,,consensus,consenso: caso p16/HPV+ con pronóstico (vía HPV)
+REC-HPVPSCC-000066,[Systemic treatment of locally advanced or metastatic penile cancer].,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000067,Activity and tolerability of maintenance avelumab immunotherapy after first line polychemotherapy including platinum in patients with locally advanced or metastatic squamous cell penile carcinoma: PULSE.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000068,Immunophenotypes Based on the Tumor Immune Microenvironment Allow for Unsupervised Penile Cancer Patient Stratification.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000069,Human Papilloma Virus (HPV) status may impact treatment outcomes in patients with pre-cancerous penile lesions (an eUROGEN Study).,2021,Excluded,Maybe,Excluded,wrong population,consensus,consenso: PeIN; sin TIME; no pSCC invasor
+REC-HPVPSCC-000070,Future directions in advanced penile cancer - mechanisms of carcinogenesis and a search for targeted therapy.,2020,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000071,Current management and future perspectives of penile cancer: An updated review.,2020,Excluded,Included,Excluded,wrong outcome,consensus,consenso: management review general
+REC-HPVPSCC-000072,Understanding genomics and the immune environment of penile cancer to improve therapy.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000073,Secondary NK/T cell lymphoma after radiotherapy for non-HPV-related squamous cell carcinoma of the penis: an early warning event and literature review.,2020,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000074,Potential Receptors for Targeted Imaging of Lymph Node Metastases in Penile Cancer.,2020,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000075,The Immune Microenvironment in Penile Cancer and Rationale for Immunotherapy.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000076,Equine Penile Squamous Cell Carcinomas as a Model for Human Disease: A Preliminary Investigation on Tumor Immune Microenvironment.,2020,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000077,Penile cancer: potential target for immunotherapy?,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000078,Urogenital Lesions in Nonhuman Primates at 2 National Primate Research Centers.,2021,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000079,Immune responses against autologous tumor and human papilloma virus in lymph nodes from patients with penile cancer.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000080,Case Report: Two Cases of Chemotherapy Refractory Metastatic Penile Squamous Cell Carcinoma With Extreme Durable Response to Pembrolizumab.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000081,Recent Advances in the Management of Penile Cancer: A Contemporary Review of the Literature.,2021,Excluded,Included,Excluded,wrong outcome,consensus,consenso: advances management; IT periférica
+REC-HPVPSCC-000082,Penile Lymphoepithelioma-Like Carcinoma: A Rare Case With PD-L1 Expression.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000083,Inguinal lymph node dissection for penile cancer: a contemporary review.,2020,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000084,TERT promoter mutations in penile squamous cell carcinoma: high frequency in non-HPV-related type and association with favorable clinicopathologic features.,2021,Included,Excluded,Included,,consensus,consenso: TERT en tipos HPV vs non-HPV — dicotomía central
+REC-HPVPSCC-000085,Expansion of tumor-infiltrating lymphocytes (TIL) from penile cancer patients.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000086,Prognostic predictors of lymph node metastasis in penile cancer: a systematic review.,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000087,Pembrolizumab for advanced penile cancer: a case series from a phase II basket trial.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000088,miRNA Expression Characterizes Histological Subtypes and Metastasis in Penile Squamous Cell Carcinoma.,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000089,Research and Clinical Significance of the Differentially Expressed Genes TP63 and LMO4 in Human Immunodeficiency Virus-Related Penile Squamous Cell Carcinoma.,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000090,Single-cell Transcriptomics Uncover a Novel Role of Myeloid Cells and T-lymphocytes in the Fibrotic Microenvironment in Peyronie's Disease.,2022,Included,Excluded,Excluded,wrong population,consensus,consenso: Peyronie; pSCC solo controles
+REC-HPVPSCC-000091,Tumor Microenvironment in Penile Cancer.,2020,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000092,Distinct Patterns of Myeloid Cell Infiltration in Patients With hrHPV-Positive and hrHPV-Negative Penile Squamous Cell Carcinoma: The Importance of Assessing Myeloid Cell Densities Within the Spatial Context of the Tumor.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000093,Development and Validation of a Nomogram for the Prediction of Inguinal Lymph Node Metastasis Extranodal Extension in Penile Cancer.,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000094,Molecular mechanism of microRNA-26a regulation of phosphatase and tensin homolog gene in condyloma acuminatum and penile squamous cell carcinoma.,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000095,Immune checkpoint inhibitors in penile cancer.,2021,Included,Maybe,Included,,consensus,consenso: título ICI penile; pasar a FT
+REC-HPVPSCC-000096,Cemiplimab for Cisplatin Resistant Metastatic Penile Cancer.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000097,PD-L1/PD-1 and CTLA-4 Expression in Equine Penile Squamous Cell Carcinomas.,2021,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000098,The peri- and intratumoral immune cell infiltrate and PD-L1 status in invasive squamous cell carcinomas of the penis.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000099,Squamous cell carcinoma with sarcomatous transformation of the penis.,2021,Excluded,Included,Included,,consensus,consenso: p16− + PD-L1 en SCC sarcomatoide de pene
+REC-HPVPSCC-000100,Multimodal Treatment Combining Salvage Surgery-Assisted Chemotherapy and Checkpoints Blockade Immunotherapy Achieves Complete Remission on a Recurrent Penile Cancer Patient: A Case Report.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000101,National trends and survival outcomes of penile squamous cell carcinoma based on human papillomavirus status.,2021,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000102,Investigation of the Epithelial to Mesenchymal Transition (EMT) Process in Equine Papillomavirus-2 (EcPV-2)-Positive Penile Squamous Cell Carcinomas.,2021,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000103,Immunotherapies in Genitourinary Oncology: Where Are We Now? Where Are We Going?,2021,Excluded,Maybe,Excluded,wrong population,consensus,consenso: IT GU amplio; pene no foco
+REC-HPVPSCC-000104,Innovative systemic therapies for penile cancer.,2022,Excluded,Included,Excluded,wrong outcome,consensus,consenso: terapias sistémicas innovadoras sin foco TIME
+REC-HPVPSCC-000105,Primary high-grade diffuse large B-cell lymphoma of the glans penis.,2021,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000106,Systemic treatment of penile squamous cell carcinoma-hurdles and hopes of preclinical models and clinical regimens: a narrative review.,2021,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: QT sistémica/modelos; IT no clara en T/A
+REC-HPVPSCC-000107,Pathogenesis of Penile Squamous Cell Carcinoma: Molecular Update and Systematic Review.,2021,Excluded,Maybe,Included,,consensus,consenso: patogénesis molecular HPV± (dicotomía central)
+REC-HPVPSCC-000108,Tumor-associated immune cell infiltrate density in penile squamous cell carcinomas.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000109,Immune checkpoint blockade with anti-programmed cell death 1 (PD-1) monoclonal antibody (mAb) cemiplimab: ongoing and future perspectives in rare genital cancers treatment.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000110,"Immunotherapeutic Approaches for the Treatment of HPV-Associated (Pre-)Cancer of the Cervix, Vulva and Penis.",2022,Excluded,Included,Included,,consensus,consenso: IT en (pre)cáncer HPV cérvix/vulva/PENE — sección pene admisible
+REC-HPVPSCC-000111,Case report of penile cancer recurrence treated with cetuximab combined with anlotinib.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000112,Enhancing immune checkpoint blockade therapy of genitourinary malignancies by co-targeting PMN-MDSCs.,2022,Included,Maybe,Excluded,wrong population,consensus,consenso: MDSCs GU; pene marginal
+REC-HPVPSCC-000113,Mutations in the telomerase reverse transcriptase promoter and PIK3CA gene are common events in penile squamous cell carcinoma of Italian and Ugandan patients.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000114,Pembrolizumab as a promising intervention for advanced penile cancer.,2022,Included,Excluded,Excluded,wrong publication type,consensus,consenso: editorial pembrolizumab sin datos
+REC-HPVPSCC-000115,Immunotherapy Combined With Chemotherapy for Postoperative Recurrent Penile Squamous Cell Carcinoma: A Case Report and Literature Review.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000116,Efficacy and Biomarker Exploration of Sintilimab Combined With Chemotherapy in the Treatment of Advanced Penile Squamous Cell Carcinoma-A Report of Two Cases.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000117,Use of immunotherapy in clinical management of genitourinary cancers - a review.,2022,Excluded,Maybe,Excluded,wrong population,consensus,consenso: IT GU; sin foco pSCC
+REC-HPVPSCC-000118,Detection of Equus caballus papillomavirus-2 in equine penile/preputial papillomas and squamous cell carcinomas in southern Brazil.,2022,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000119,Immunotherapy in Penile Squamous Cell Carcinoma: Present or Future? Multi-Target Analysis of Programmed Cell Death Ligand 1 Expression and Microsatellite Instability.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000120,"First-line programmed death receptor-1 (PD-1) inhibitor and epidermal growth factor receptor (EGFR) blockade, combined with platinum-based chemotherapy, for stage IV penile cancer.",2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000121,Emerging Therapies in Penile Cancer.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000122,miRNA and mRNA Expression Profiles Associated with Lymph Node Metastasis and Prognosis in Penile Carcinoma.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000123,Immune-based therapies in penile cancer.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000124,Advanced Squamous Cell Carcinomas of the Pelvic and Perineal Region: A Comprehensive Genomic Profiling Study.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000125,Mutational Signature and Integrative Genomic Analysis of Human Papillomavirus-Associated Penile Squamous Cell Carcinomas from Latin American Patients.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000126,"Prognostic utility of SOX2, STAT3, and CD44^high/CD24^low expression in penile cancer.",2023,Included,Excluded,Excluded,wrong outcome,consensus,consenso: SOX2/STAT3/stem; sin poblaciones inmunes
+REC-HPVPSCC-000127,Male Perineal Carcinoma: Experience in 4 Cases and Literature Review.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000128,Molecular Pathogenesis of Penile Squamous Cell Carcinoma: Current Understanding and Potential Treatment Implications.,2023,Included,Maybe,Included,,consensus,consenso: patogénesis molecular HPV/non-HPV
+REC-HPVPSCC-000129,Clinical and Novel Biomarkers in Penile Carcinoma: A Prospective Review.,2022,Included,Maybe,Included,,consensus,consenso: biomarcadores penile — pasar a FT
+REC-HPVPSCC-000130,PD-1 inhibitor treatment in a penile cancer patient with MMR/MSI status heterogeneity: A case report.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000131,An update on treatment of penile cancer.,2022,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: update treatment general
+REC-HPVPSCC-000132,Penile cancer with bilateral inguinal lymph node metastases surviving for more than 4 years: A case report.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000133,Sintilimab-Induced Diabetic Ketoacidosis in a Patient with Radiation and Multichemorefractory Penile Cancer: A Case Report and Literature Review.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000134,Combination of radiation and immunotherapy in the treatment of genitourinary malignancies: A systematic review and meta-analysis.,2023,Excluded,Maybe,Excluded,wrong population,consensus,consenso: RT+ICI GU multi-sitio
+REC-HPVPSCC-000135,Penile cancer: Updates in systemic therapy.,2022,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: updates systemic therapy; IT no clara
+REC-HPVPSCC-000136,"The Evolving Landscape of Viral, Immune, and Molecular Biomarkers in Penile Cancer.",2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000137,Conversion therapy for advanced penile cancer with tislelizumab combined with chemotherapy: A case report and review of literature.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000138,Immune landscape and immunotherapy for penile cancer.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000139,PD-L1 is associated with the prognosis of penile cancer: A systematic review and meta-analysis.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000140,Combination of Pembrolizumab and Stereotactic Body Radiation Therapy in Recurrent Metastatic Penile Squamous Cell Carcinoma: A Case Study.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000141,Increased HRD score in cisplatin resistant penile cancer cells.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000142,An Analysis of Nectin-4 (PVRL4) in Penile Squamous Cell Carcinoma.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000143,Combination of Durvalumab and Chemotherapy to Potentially Convert Unresectable Stage IV Penile Squamous Cell Carcinoma to Resectable Disease: A Case Report.,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000144,Global research trends in penile cancer: Bibliometric and visualized analysis.,2022,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000145,Treatment of Severe Atopic Dermatitis with Dupilumab in Patients with Advanced Cancer.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000146,Prognostic significance and immune correlates of FADD in penile squamous cell carcinoma.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000147,"Venous thrombosis, multiple carcinomatous foci and differences in metastatic pathways of penile carcinoma.",2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000148,Detection of Equine Papillomaviruses and Gamma-Herpesviruses in Equine Squamous Cell Carcinoma.,2023,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000149,Highlights into historical and current immune interventions for cancer.,2023,Included,Excluded,Excluded,wrong population,consensus,consenso: historia IT cáncer general; no pSCC
+REC-HPVPSCC-000150,Lichen sclerosus: The 2023 update.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000151,"Surgery, radiotherapy, chemotherapy, targeted therapy, and immunotherapy of rectal adenocarcinoma with penile metastasis: a case report.",2023,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000152,Therapeutic Approaches to Penile Cancer: Standards of Care and Recent Developments.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000153,"Immune cell infiltration, tumour budding, and the p53 expression pattern are important predictors in penile squamous cell carcinoma: a retrospective study of 152 cases.",2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000154,Programmed death‑ligand 1 expression in tumor cells and tumor‑infiltrating lymphocytes are associated with depth of tumor invasion in penile cancer.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000155,Atezolizumab With or Without Radiotherapy for Advanced Squamous Cell Carcinoma of the Penis (The PERICLES Study): A Phase II Trial.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000156,An Assessment of the Penile Squamous Cell Carcinoma Surfaceome for Biomarker and Therapeutic Target Discovery.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000157,Safety and efficacy of immune checkpoint inhibitors in advanced penile cancer: report from the Global Society of Rare Genitourinary Tumors.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000158,Comprehensive genomic profiling of penile squamous cell carcinoma and the impact of human papillomavirus status on immune-checkpoint inhibitor-related biomarkers.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000159,Evaluation of programmed cell death ligand 1 expression in a contemporary cohort of penile squamous cell carcinoma and its correlation with clinicopathologic and survival parameters: A study of 134 patients.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000160,Dyspnea Secondary to Mediastinal Mass: A Rare Presentation of Metastatic Penile Squamous Cell Carcinoma.,2023,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: caso presentación clínica; IT mínima
+REC-HPVPSCC-000161,A population-based analysis of the epidemiology of penile cancer in Newfoundland and Labrador.,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000162,Prognostic Markers and Trials in Penile Cancer.,2023,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: brief biomarkers/trials; TIME no clara
+REC-HPVPSCC-000163,Penile melanoma: a pathological report of two cases.,2023,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000164,"Assessment of PD-L1, TROP2, and nectin-4 expression in penile squamous cell carcinoma.",2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000165,Metastatic Penile Squamous Cell Carcinoma Responsive to Enfortumab Vedotin.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000166,Cemiplimab as First Line Therapy in Advanced Penile Squamous Cell Carcinoma: A Real-World Experience.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000167,Human Papillomavirus Infection in Penile Cancer: Multidimensional Mechanisms and Vaccine Strategies.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000168,SPP1 is associated with adverse prognosis and predicts immunotherapy efficacy in penile cancer.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000169,Genomic Profiles and Clinical Outcomes of Penile Squamous Cell Carcinoma With Elevated Tumor Mutational Burden.,2023,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000170,Human papillomavirus infection affects treatment outcomes and the immune microenvironment in patients with advanced penile squamous cell carcinoma receiving programmed cell death protein 1 inhibitor-based combination therapy.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000171,"High tumour mutational burden is associated with strong PD-L1 expression, HPV negativity, and worse survival in penile squamous cell carcinoma: an analysis of 165 cases.",2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000172,Invasive penile glans Squamous Cell Carcinoma (peSCC) and Reflectance Confocal Microscopy (RCM): is it a valuable alternative to histopathology?,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000173,Immuno-Oncology Advances in Genitourinary Cancers.,2024,Excluded,Maybe,Excluded,wrong population,consensus,consenso: IO GU educativo; pene breve
+REC-HPVPSCC-000174,Multiplex Immunofluorescence Captures Progressive Immune Exhaustion with Advancing Penile Squamous Cell Cancer Stage.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000175,Characterization of T cell receptor repertoire in penile cancer.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000176,Case report of penile squamous cell carcinoma continuous treatment with BRCA2 mutation.,2024,Excluded,Included,Included,,consensus,consenso: caso pSCC con pembrolizumab/nivo+ipi
+REC-HPVPSCC-000177,"Transcriptomic, Proteomic, and Genomic Mutational Fraction Differences Based on HPV Status Observed in Patient-Derived Xenograft Models of Penile Squamous Cell Carcinoma.",2024,Included,Excluded,Excluded,wrong population,consensus,consenso: PDX en ratón inmunodeficiente
+REC-HPVPSCC-000178,"Re: Assessment of PD-L1, TROP2, and NECTIN-4 Expression in Penile Squamous Cell Carcinoma.",2024,Excluded,Excluded,Excluded,wrong publication type,agreement,acuerdo R1=R2
+REC-HPVPSCC-000179,Preoperative Albumin-to-Alkaline Phosphatase Ratio as an Independent Predictor of Lymph Node Involvement in Penile Cancer.,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000180,Insights into the management of penile squamous cell carcinoma: from conventional approaches to emerging novel therapies.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000181,Fluorescence-guided surgery using cetuximab-800CW in patients with penile carcinoma.,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000182,"Single-cell Atlas of Penile Cancer Reveals TP53 Mutations as a Driver of an Aggressive Phenotype, Irrespective of Human Papillomavirus Status, and Provides Clues for Treatment Personalization.",2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000183,The effects of HIV and oncogenic human papillomavirus on the tumor immune microenvironment of penile squamous cell carcinoma.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000184,Retifanlimab in Advanced Penile Squamous Cell Carcinoma: The Phase 2 ORPHEUS Study.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000185,"The Role of JAK-STAT-SOCS1 Axis in Tumorigenesis, Malignant Progression and Lymphatic Metastasis of Penile Cancer.",2024,Excluded,Included,Included,,consensus,consenso: JAK-STAT-SOCS1 → microambiente inmunosupresor / CTL
+REC-HPVPSCC-000186,"Trajectories of squamous cell carcinoma antigen and outcomes of patients with advanced penile cancer after chemotherapy based on paclitaxel, ifosfamid, and cisplatin regimen.",2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000187,Therapeutic Targets in Advanced Penile Cancer: From Bench to Bedside.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000188,Immune-based Therapies for Penile Cancer.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000189,New Therapeutic Horizons for Advanced or Metastatic Penile Cancer.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000190,Final Results From a Phase I Trial and Expansion Cohorts of Cabozantinib and Nivolumab Alone or With Ipilimumab for Advanced/Metastatic Genitourinary Tumors.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000191,"Penile intraepithelial neoplasia incidence, clinical classification, microenvironment and implications for imiquimod treatment.",2024,Included,Maybe,Included,,consensus,consenso: PeIN + marcadores TIME/imiquimod — contextualización
+REC-HPVPSCC-000192,Advances in molecular basis of response to immunotherapy for penile cancer: better screening of responders.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000193,A model of tertiary lymphatic structure-related prognosis for penile squamous cell carcinoma.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000194,Immunotherapy for penile cancer.,2024,Included,Maybe,Included,,consensus,consenso: título IT penile Nat Rev Urol; pasar a FT
+REC-HPVPSCC-000195,Penile Metastasis From Esophageal Squamous Cell Cancer.,2024,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000196,"Squamous Cell Carcinoma In Situ-The Importance of Early Diagnosis in Bowen Disease, Vulvar Intraepithelial Neoplasia, Penile Intraepithelial Neoplasia, and Erythroplasia of Queyrat.",2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000197,Molecular characterization of metastatic penile squamous cell carcinoma in developing countries and its impact on clinical outcomes: LACOG 2018 translational study.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000198,Relationship between NLR and penile squamous cell carcinoma: a systematic review and meta-analysis.,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000199,"Hybrid Bladder Tumor: Urothelial Carcinoma With Squamous Cell Differentiation, Urothelial Sarcomatoid Carcinoma, and Concurrent Primary Mucinous Adenocarcinoma With Metastasis to the Penis.",2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000200,Construction and validation of a prediction model for inguinal lymph node metastasis of penile malignancy.,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000201,The impact of the tumor microenvironment on the survival of penile cancer patients.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000202,"HPV and Penile Cancer: Epidemiology, Risk Factors, and Clinical Insights.",2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000203,Programmed death-ligand expression and lymph node involvement in penile squamous cell carcinoma.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000204,Elevated Microsatellite Alterations at Selected Tetranucleotide Repeats (EMAST) in Penile Squamous Cell Carcinoma-No Evidence for a Role in Carcinogenesis.,2024,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: EMAST/MSI; sin TIME
+REC-HPVPSCC-000205,Human papillomavirus infection affects the immune microenvironment and antigen presentation in penile cancer.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000206,Systematic comparison of fluorescence imaging in the near-infrared and shortwave-infrared spectral range using clinical tumor samples containing cetuximab-IRDye800CW.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000207,A Rare Case of Malignant Melanoma of the Glans Penis in a Young Male Treated with an Organ-Preserving Surgical Procedure.,2024,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000208,French AFU Cancer Committee Guidelines-Update 2024-2026: Penile cancer.,2024,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000209,Gene Expression Profiling of the Peritumoral Immune Cell Infiltrate of Penile Squamous Cell Carcinomas.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000210,Complex Decision Making for Individual Patients With Penile Cancer: Benchmarking Divergent Practices in European High-Volume Reference Centers: Results From eUROGEN Survey.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000211,First-Line PD-1 Blockade Combined With Chemotherapy for Stage IV Penile Squamous Cell Carcinoma: A Multicenter Retrospective Study.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000212,Immunotherapy in Penile Cancer: A Systematic Review.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000213,Role of Neoadjuvant Immunotherapy in Genitourinary Malignancies.,2024,Excluded,Maybe,Excluded,wrong population,consensus,consenso: neoadyuvante IT GU
+REC-HPVPSCC-000214,Tumor-infiltrating plasma cells are a prognostic factor in penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000215,Real-World Outcomes in Patients with Advanced Penile Squamous Cell Carcinoma Receiving Immune Checkpoint Inhibitors: A Single Institution Experience.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000216,Treatment approaches in advanced penile cancer: targeted therapies and immunotherapy.,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000217,Molecular Pathology and Biomarkers of Penile Squamous Cell Carcinoma: Implications for Classification and Management.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000218,Impact of HIV on HPV-related cancers in men who have sex with men: a review.,2024,Excluded,Maybe,Excluded,wrong population,consensus,consenso: HIV/HPV MSM multi-sitio
+REC-HPVPSCC-000219,Single-cell and spatial transcriptomics reveal pre-metastatic subsets and therapeutic targets in penile carcinoma.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000220,Treatment strategies in human papillomavirus-related advanced penile cancer.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000221,Evidence-Based Recommendations on the Use of Immunotherapies and Monoclonal Antibodies in the Treatment of Male Reproductive Cancers.,2025,Included,Maybe,Included,,consensus,consenso: recomendaciones IT cánceres reproductivos masculinos incl. pene
+REC-HPVPSCC-000222,Progressive T cell exhaustion and predominance of aging tissue associated macrophages with advancing disease stage in penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000223,Efficacy and safety of immune checkpoint inhibitors in metastatic penile squamous cell carcinoma: a retrospective multicenter analysis.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000224,Immunotherapy in the Management of Penile Cancer-A Systematic Review.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000225,Inflammation in Penile Squamous Cell Carcinoma: A Comprehensive Review.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000226,Case Report and Literature Review on Skin Toxicity Induced by PD-1 Inhibitor in a Penile Cancer with Massive Ulceration of Chemoradiotherapy-Resistant and Successful Treatment by Immunotherapy.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000227,Current update on pharmacological strategies of penile cancer.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000228,Neoadjuvant toripalimab plus nimotuzumab combined with taxol-based chemotherapy in locally advanced penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000229,Sarcomatoid carcinoma of the penis: a case report.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000230,Smoking and presence of human papillomavirus correlates with lymphocyte density in the stroma of penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000231,Emerging Advances in the Molecular Landscape of Penile Cancer and Their Implications for Precision Medicine.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000232,Impact of TP53 Alterations on Clinical Outcomes in Penile Squamous Cell Carcinoma.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000233,PD-L1 and FOXP3 expression in high-grade squamous intraepithelial lesions of the anogenital region.,2025,Included,Maybe,Included,,consensus,consenso: PD-L1/FOXP3 en HSIL anogenital incl. pene
+REC-HPVPSCC-000234,Advances and Challenges in the Treatment of HPV-Associated Lower Genital Tract Cancers by Immune Checkpoint Blockers: Insights from Basic and Clinical Science.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000235,Neutrophil-to-lymphocyte ratio predicts a poor prognosis for penile cancer with an immunosuppressive tumor microenvironment.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000236,Management of Advanced Penile Cancer.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000237,"Biomarkers of response to antibody-drug conjugates (TROP2 and nectin-4) and the immune microenvironment (NKG7, PD-L1, and B7-H3) in penile squamous cell carcinoma.",2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000238,"Immune cell analysis in equine penile papilloma, in situ squamous cell carcinoma and invasive squamous cell carcinoma: FoxP3+ T regulatory lymphocytes differ according to equine papillomavirus 2 status.",2025,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000239,Single-Cell and Spatial Transcriptomic Profiling of Penile Squamous Cell Carcinoma Reveals Dynamics of Tumor Differentiation and Immune Microenvironment.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000240,A phase 2 study of sacituzumab govitecan with or without atezolizumab in rare genitourinary tumors (SMART) - design and rationale.,2025,Included,Maybe,Excluded,wrong publication type,consensus,consenso: protocolo ensayo SMART; sin resultados
+REC-HPVPSCC-000241,Efficacy of pembrolizumab and vorinostat combination in patients with recurrent and/or metastatic squamous cell carcinomas: a phase 2 basket trial.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000242,Clinicopathological features and reclassification of penile squamous cell carcinoma according to WHO classification 2022 for penile carcinoma with p16 immunohistochemical expression and its prognostic impact.,2025,Excluded,Included,Included,,consensus,consenso: WHO 2022 HPV-assoc vs independent + p16/pronóstico
+REC-HPVPSCC-000243,CircRNA Sequencing Analysis Reveals the Regulatory Role of circ_CDR1as in Penile Squamous Cell Carcinoma via the ceRNA Network.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000244,Penile Cancer Distant Metastasis or Primary Lung Cancer? Using Focused Genomic Profiling of Tumor and Germline Mutations With Next-Generation Sequencing for Clinical Decision-Making.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000245,Immune checkpoint inhibitor therapy for advanced HPV-related penile squamous cell carcinoma: a rare case report.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000246,Survivin and Ki-67 immunohistochemical expression in penile squamous cell carcinoma: clinicopathological features and overall survival.,2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000247,[Penile carcinoma: the importance of histological classification and new treatment strategies].,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000248,Penile squamous cell carcinoma with posterior urethra involvement: A case report.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000249,Feasibility and effectiveness of second-line chemotherapy with mitomycin C in patients with advanced penile cancer.,2023,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000250,"Expression of PD-L1, TIGIT, and CD155, and Human Papillomavirus Status in Patients with Advanced Penile Cancer.",2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000251,"Emerging nanotherapeutics for HPV-associated cancers: current advances, challenges, and future directions.",2025,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000252,"Interplay of PD-L1, FOXP3, and CD8 in the Immune Microenvironment of Penile Squamous Cell Carcinoma: Expression Profiles and Correlations.",2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000253,Clinicopathological Features of Non-HPV-associated Common Differentiated Penile Squamous Cell Carcinoma: A Study of 55 Patients.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000254,Single-cell transcriptomic profiling reveals distinct tumor microenvironments in HPV-associated penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000255,Characterization of CD8+ and FOXP3+ T-Cell Ratios in Tumor and Stromal Compartments of Penile Squamous Cell Carcinoma: An Analysis Across Histologic Subtypes and Grades.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000256,Pembrolizumab Plus Platinum-Based Chemotherapy for Patients With Advanced Penile Cancer: The Nonrandomized HERCULES (LACOG 0218) Clinical Trial.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000257,Metachronous nodal metastases from HPV-associated penile carcinoma in situ.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000258,Evaluating the Evolving Treatment Landscape of Systemic Therapies in Penile Cancer.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000259,An update on the pharmacotherapy of penile cancer.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000260,CD4 and CD8 T-cell lymphocytes from penile squamous cell carcinoma tumors are more differentiated with higher PD-1 expression compared to lymphocytes in peripheral circulation.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000261,Spatial Transcriptional Dynamics of CD74⁺ B Cells in Tertiary Lymphoid Structures Drive Immune Evolution in Penile Squamous Cell Carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000262,Phase 2 study of dostarlimab plus niraparib in stage III-IV recurrent or refractory Penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000263,Marjolin's Ulcer in Patients With Anogenital Lichen Planus: A Systematic Review.,2026,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000264,[Personalized systemic therapy of penile cancer: molecular targets and new therapeutic horizons].,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000265,Tissue Factor Expression in Penile Squamous Cell Carcinoma: A Potential Marker of HPV-Independent Disease.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000266,B lymphocytes and tertiary lymphoid structures have a prognostic impact on penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000267,"Re: Fernando Cotait Maluf, Karine Trindade, Daniel Preto, et al. Pembrolizumab plus Platinum-based Chemotherapy for Patients with Advanced Penile Cancer: The Nonrandomized HERCULES (LACOG 0218) Clinical Trial. JAMA Oncol. In press. https://doi.org/10.1001/jamaoncol.2025.3266.",2026,Excluded,Excluded,Excluded,wrong publication type,agreement,acuerdo R1=R2
+REC-HPVPSCC-000268,Penile squamous cell carcinoma in neurofibromatosis type 1 (NF1): RAS-pathway mechanisms and management - A case report.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000269,Low GATA3 predicts worse survival in penile cancer.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000270,FXR-mediated antigen-specific CD8⁺ T cell enhances antitumor immunity in intrahepatic cholangiocarcinoma.,2025,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000271,A B cell-IgA-epithelial axis enhances antitumor immunity and improves outcome in HPV-associated penile squamous cell carcinoma.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000272,Premalignant lesion over glans penis treated with neodymium:yttrium-aluminum-garnet laser.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000273,Not all penile tumours are alike: A rare case of penile melanoma.,2026,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000274,Comparison of efficacy and prognosis between neoadjuvant chemotherapy and adjuvant chemotherapy in penile cancer patients with regional lymph node metastasis.,2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000275,"Efficacy and safety of tislelizumab combined with chemotherapy for locally advanced penile cancer: a prospective, single-arm clinical study.",2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000276,IL-12 as a Potential Prognostic Marker in Penile Cancer: Implications for Immune Dysregulation.,2025,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000277,Adding pembrolizumab to a platinum doublet may be a new option for advanced penile cancer.,2026,Included,Excluded,Excluded,wrong publication type,consensus,consenso: editorial/news pembrolizumab
+REC-HPVPSCC-000278,"Systemic Chemotherapy in Penile Squamous Cell Carcinoma: Mechanisms, Clinical Applications, and Evidence-Based Regimens.",2025,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000279,"Subsequent-line Systemic Therapy for Metastatic or Recurrent Penile Cancer: A Systematic Review of Efficacy, Toxicity, and Outcomes.",2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000280,Efficacy and Safety of Immune Checkpoint Blockade in Locally Advanced or Metastatic Penile Cancer: A Systematic Review and Meta-Analysis.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000281,Geospatial and Cell Density Analysis Using Multiplex Immunofluorescence Reveals an Important Role of Clustering Patterns of Immunosuppressive Macrophages in Survival Outcomes of Penile Squamous Cell Carcinoma.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000282,Decoding the Cellular Heterogeneity and Malignant Progression of Human Penile Squamous Cell Carcinoma by Single-Cell RNA Sequencing.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000283,Soluble immune checkpoint proteins as predictive biomarkers for lymph node metastases in penile cancer.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000284,The role of the tumor microenvironment in penile carcinoma and emerging therapeutic concepts: A review.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000285,Low yield of pathological lymph node metastasis among patients with invasive penile squamous cell carcinoma in the context of high HIV burden: evidence from a prospective cohort study in Zambia.,2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000286,CD47 as a prognostic biomarker and potential immunotherapy target in penile squamous cell carcinoma.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000287,Tertiary lymphoid structures in genitourinary cancers: a comprehensive review.,2026,Excluded,Maybe,Excluded,wrong population,consensus,consenso: TLS GU amplio
+REC-HPVPSCC-000288,"Mechanisms, Management and Prognosis of Paraneoplastic Hypercalcemia in Penile Squamous Cell Carcinoma: A Structured Review.",2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000289,Penile involvement associated with renal pelvic squamous cell carcinoma: a case report and mechanistic considerations.,2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000290,Association of CCL21⁺ CAFs with B-cell recruitment and TLS maturation in penile squamous cell carcinoma.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000291,Radiotherapy combined with immunotherapy achieves clinical complete response in elderly metastatic penile cancer: a case report.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000292,Neoadjuvant and/or adjuvant immune checkpoint inhibitors combined with chemotherapy for locally advanced resectable penile squamous cell carcinoma.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000293,"Prognostic value of the tumor immune microenvironment, PD-L1 and p16^INK4A in penile squamous cell carcinoma.",2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000294,"Predicting inguinal lymph node metastasis in penile squamous cell carcinoma, from imaging, molecular biomarkers to multimodal AI: a narrative review.",2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000295,Fungating Mass of the Glans Penis: A Case Report and Discussion on Penile Squamous Cell Carcinoma.,2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000296,Redefining standards: a comprehensive systematic review of practice changing advances in GU oncology from ASCO and ESMO 2025.,2026,Excluded,Maybe,Excluded,wrong population,consensus,consenso: ASCO/ESMO GU 2025 generales
+REC-HPVPSCC-000297,"Penile squamous cell carcinoma masquerading as Fournier's Gangrene: A case of a young patient with aggressive, metastatic disease.",2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000298,A Systematic Review and Meta-Analysis of the Impact of Tumour Mutation Burden on Survival Outcomes in Solid Tumours.,2026,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000299,B7-H3 (CD276) as Target for T Cell-Based Bispecific Antibody Therapy of Penile Cancer.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000300,Urethral cancer management in contemporary practice: A review.,2026,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000301,Correction: Neoadjuvant and/or adjuvant immune checkpoint inhibitors combined with chemotherapy for locally advanced resectable penile squamous cell carcinoma.,2026,Included,Excluded,Excluded,wrong publication type,consensus,consenso: erratum; sin contenido propio
+REC-HPVPSCC-000302,Neoadjuvant Treatment for Penile Cancer: A Systematic Review of Contemporary Evidence.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000303,USP1-mediated lipophagy-lipogenesis axis drives cholangiocarcinoma progression and immune evasion.,2026,Excluded,Excluded,Excluded,wrong population,agreement,acuerdo R1=R2
+REC-HPVPSCC-000304,Front-line chemo-immunotherapy for advanced penile cancer: ready for prime time?,2026,Included,Excluded,Excluded,wrong publication type,consensus,consenso: editorial Br J Cancer
+REC-HPVPSCC-000305,Prognostic Role of PD-L1 in Penile Squamous Cell Carcinoma: A Systematic Review and Meta-Analysis.,2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000306,The Relationship Between Neutrophil Extracellular Traps and CD8⁺ T Lymphocytes in Cancer: A Comprehensive Review of Current Data.,2026,Excluded,Maybe,Excluded,wrong population,consensus,consenso: NETs/CD8 pan-cáncer
+REC-HPVPSCC-000307,The HERCULES trial and the emerging role of chemoimmunotherapy in advanced penile squamous cell carcinoma: Evidence and implications.,2026,Included,Excluded,Excluded,wrong publication type,consensus,consenso: commentary HERCULES sin datos
+REC-HPVPSCC-000308,"Vaccine Therapy for the Management of Penile Cancer: Evidence, Opportunities and Challenges.",2026,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000309,[Testicular Germ Cell Tumors and Penile Cancer: Molecular-Based Diagnosis and Treatment].,2026,Excluded,Maybe,Included,,consensus,consenso: sección pene HPV + IT en revisión conjunta
+REC-HPVPSCC-000310,From biology to morphology and treatment: the current role of pathology in penile cancer - a narrative review.,2026,Excluded,Maybe,Excluded,wrong outcome,consensus,consenso: patología pronóstica general; TIME no clara
+REC-HPVPSCC-000311,CTCAE-Guided Management of Cytotoxic Chemotherapy Toxicity in Uro-Oncology: A Contemporary Narrative Review.,2026,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000312,Machine Learning Analysis of PD-L1 and CD8 Expression Patterns in Penile Squamous Cell Carcinoma: Implications for Immunotherapy,2024,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000313,Whole-exome sequencing in penile squamous cell carcinoma uncovers novel prognostic categorization and drug targets similar to head and neck squamous cell carcinoma,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
+REC-HPVPSCC-000314,PD-L1 expression as predictor of immunotherapy eligibility in penile squamous cell carcinoma patients,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000315,Sintilimab-Induced Diabetic Ketoacidosis in A Patient with Radiation and Multichemorefractory Penile Cancer: A Case Report and Literature Review,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000316,SPP1 is expected to be a biomarker for predicting prognosis and immunotherapy efficacy in penile cancer patients,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000317,Tislelizumab combination with chemotherapy successfully converted unresectable advanced penile cancer into complete surgical excision: a case report and literature review,2022,Included,Included,Included,,agreement,acuerdo R1=R2
+REC-HPVPSCC-000318,Correlation between the evolution of somatic alterations during lymphatic metastasis and clinical outcome in penile squamous cell carcinoma,2021,Excluded,Excluded,Excluded,wrong outcome,agreement,acuerdo R1=R2
