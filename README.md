@@ -26,4 +26,4 @@ Screening and the dual extraction/appraisal of the 24 Category A sources were pe
 
 ## Citation
 
-Please cite the published manuscript. This repository is archived on Zenodo with DOI: `[ZENODO_DOI]` (concept DOI, always resolves to the latest version).
+Please cite the published manuscript. This repository is archived on Zenodo with DOI: `10.5281/zenodo.22969993` (concept DOI, always resolves to the latest version).
