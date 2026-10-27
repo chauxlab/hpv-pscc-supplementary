@@ -11,18 +11,18 @@ This repository documents the full review process — protocol, search strategie
 - **`screening/`** — title/abstract consensus decisions (2 independent reviewers) and full-text retrieval/screening outcomes, including the 45 reports that could not be retrieved.
 - **`extraction/`** — the full single-reviewer extraction database for all 121 included reports, plus the independently dual-extracted and reconciled data for the 24 sources cited individually in the manuscript (Category A), with the field-by-field reconciliation log.
 - **`risk_of_bias/`** — Mixed Methods Appraisal Tool (MMAT 2018) assessments: single-reviewer criterion-level judgments for the full corpus, and dual-reconciled judgments with written per-domain rationale for the 24 Category A sources.
-- **`manuscript/`** — the submitted manuscript, tables, reference list (RIS), PRISMA 2020 flow diagram, completed PRISMA 2020 checklist, and the two supplementary tables (S2: complete list of 119 included studies; S4: study-level characteristics and MMAT criterion-level appraisal for all 119 studies).
+- **`manuscript/`** — the manuscript as submitted (updated on 2026-10-27 only where figures changed; see `CHANGELOG.md`), tables, reference list (RIS), PRISMA 2020 flow diagram, completed PRISMA 2020 checklist, and the two supplementary tables (S2: complete list of 119 included studies; S4: study-level characteristics and MMAT criterion-level appraisal for all 119 studies).
 
 ## Key facts
 
 - **Corpus:** 767 records identified (Europe PMC 437, MEDLINE 307, authors' curated bibliography 23) → 318 unique after deduplication → 168 included at title/abstract → 123 full texts retrieved (45 unavailable) → 121 reports included (2 excluded) → 119 unique studies (2 preprint/publication pairs merged).
 - **Screening:** independent, dual-reviewer at both title/abstract and full-text stages, consensus-resolved.
-- **Extraction/appraisal:** dual, independent, and reconciled for the 24 Category A sources (except reference 12, appraised by one reviewer alone due to a co-authorship conflict disclosed in the manuscript); single-reviewer with quality-control checks for the remaining 95 studies.
+- **Extraction/appraisal:** dual, independent, and reconciled for the 24 Category A sources (except reference 12, appraised by one reviewer alone due to a co-authorship conflict disclosed in the manuscript); extracted and appraised independently by P.B. alone for three further studies co-authored by A.C. (File S2 entries 10, 11 and 14); single-reviewer with quality-control checks for the remaining 95 studies.
 - **Appraisal tool:** MMAT 2018, criterion-level (c1–c5) judgments available for every empirical study in the corpus.
 
 ## Authorship and conflicts
 
-Screening and the dual extraction/appraisal of the 24 Category A sources were performed independently by Alcides Chaux and Paola Britos, both affiliated with ChauxLab Institute. Reference 12 (Canete-Portillo et al. 2026) is co-authored by A.C.; its extraction and appraisal were performed by P.B. alone, who has no role in that study.
+Screening and the dual extraction/appraisal of the 24 Category A sources were performed independently by Alcides Chaux and Paola Britos, both affiliated with ChauxLab Institute. Four included studies are co-authored by A.C.: reference 12 (Canete-Portillo et al. 2026, File S2 entry 9) and File S2 entries 10, 11 and 14. Their extraction and appraisal were performed by P.B. alone, who has no role in those studies (the independent records are in `extraction/HPV_PSCC_extraction_independent_PB_entries10-11-14_2026-10-27.csv` and `risk_of_bias/HPV_PSCC_mmat_independent_PB_entries10-11_2026-10-27.csv`; entry 14 is a narrative review, MMAT not applicable). Entries 9 to 11 derive from the same parent tissue-microarray cohort (108 patients, 528 spots) and are not independent samples.
 
 ## Citation
 

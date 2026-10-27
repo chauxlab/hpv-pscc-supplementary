@@ -8,15 +8,16 @@ manuscript_id: "4GARYD"
 
 Prepared in response to Editorial Office comment 1 and Reviewer 4 comment 2 (2nd-round revision, 2026-09-25): PRISMA 2020 Item 17 (study characteristics) and Item 18 (risk-of-bias per study, criterion-level where possible) for the full included corpus, not only the 24 sources cited individually in the main text (Table 1).
 
-**Scope and provenance.** All 119 unique studies (121 full-text–included reports, minus 2 preprint duplicates already merged with their peer-reviewed counterpart; see Section 3.1 and Supplementary Table S2 for citations). Design, N, and HPV method for the 24 Category A sources (Ref column populated) reproduce the verified values already reported in Table 1 of the main text. For the remaining 95 sources, Design and N are taken verbatim from the review's extraction database and are less standardized in wording than Table 1 (e.g., "observational / not fully specified" reflects the source record, not a judgment that design was unclear to the original authors).
+**Scope and provenance.** All 119 unique studies (121 full-text–included reports, minus 2 preprint duplicates already merged with their peer-reviewed counterpart; see Section 3.1 and Supplementary Table S2 for citations). Design, N, and HPV method for the 24 Category A sources (Ref column populated) reproduce the verified values already reported in Table 1 of the main text. For the remaining 95 sources, Design and N are taken verbatim from the review's extraction database (for File S2 entries 10, 11 and 14, the independent extraction by P.B.) and are less standardized in wording than Table 1 (e.g., "observational / not fully specified" reflects the source record, not a judgment that design was unclear to the original authors). Four rows that had initially been coded as randomized trials (Alencar 2022, Lloyd 2024, Necchi 2022 and Rouvinov 2023) were recoded after reading the full text (for Lloyd 2024, a one-page comment, from its PubMed record): Alencar 2022 and Lloyd 2024 are not applicable (review and comment), and Necchi 2022 and Rouvinov 2023 are retrospective descriptive studies.
 
 **Appraisal columns (c1–c5, Overall).** Mixed Methods Appraisal Tool (MMAT) v.2018 criterion-level judgments (Y = yes, N = no, ? = can't tell) and overall category, per study. **Appraisal column** states how each row's judgment was produced:
-- **Dual** (24 rows, the Category A sources): MMAT category, c1–c5, and overall judgment were assigned independently by both authors from the full text and reconciled by consensus, with a written domain-specific rationale for each criterion (available in the open repository, see below) — except reference 12, appraised by P.B. alone because A.C. is a co-author of that study (see main text, Conflict of interest).
+- **Dual** (21 rows, the Category A sources other than three reviews coded NA): MMAT category, c1–c5, and overall judgment were assigned independently by both authors from the full text and reconciled by consensus, with a written domain-specific rationale for each criterion (available in the open repository, see below) — except reference 12, appraised by P.B. alone because A.C. is a co-author of that study (see main text, Conflict of interest).
+- **P.B. alone** (3 rows): the further studies co-authored by A.C. (File S2, entries 10, 11 and 14) were extracted and appraised independently by P.B. from the full text, without reference to the earlier single-reviewer records.
 - **Single** (95 rows): appraised by one reviewer (A.C.) from the full text, without independent duplicate appraisal or written per-domain rationale beyond a generic category-level heuristic. This is the same single-reviewer limitation already disclosed in the main text Limitations for extraction/appraisal of the non-core corpus; it is not upgraded by this table, only made auditable at the per-study, per-criterion level rather than as an aggregate count.
 
-Reviews and evidence syntheses (systematic reviews, meta-analyses, narrative reviews) are coded **NA** throughout, consistent with MMAT's design (the tool does not appraise reviews). Author-name study labels are internal identifiers from the review database and may have non-ASCII characters normalized (e.g., "Müller" may appear as "Muller" in a small number of rows outside the 24 Category A sources, where the correctly formatted name is used); the DOI column is the authoritative identifier for each row and full formatted citations are given in Supplementary Table S2.
+Reviews and evidence syntheses (systematic reviews, meta-analyses, narrative reviews or commentaries) are coded **NA** throughout, consistent with MMAT's design (the tool does not appraise reviews). Author-name study labels are internal identifiers from the review database and may have non-ASCII characters normalized (e.g., "Müller" may appear as "Muller" in a small number of rows outside the 24 Category A sources, where the correctly formatted name is used); the DOI column is the authoritative identifier for each row and full formatted citations are given in Supplementary Table S2.
 
-**Full underlying data.** Per-criterion written rationale for the 24 Category A sources, the complete single-reviewer extraction and appraisal database for all 121 reports, the screening decisions, and the review protocol are openly archived at https://github.com/chauxlab/hpv-pscc-supplementary (Zenodo archival pending).
+**Full underlying data.** Per-criterion written rationale for the 24 Category A sources, the complete single-reviewer extraction and appraisal database for all 121 reports, the screening decisions, and the review protocol are openly archived at https://github.com/chauxlab/hpv-pscc-supplementary (archived on Zenodo, DOI 10.5281/zenodo.22969993).
 
 | Ref | Study | DOI | Year | Design | N | HPV strat. | MMAT category | c1 | c2 | c3 | c4 | c5 | Overall | Appraisal |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
@@ -45,15 +46,15 @@ Reviews and evidence syntheses (systematic reviews, meta-analyses, narrative rev
 | 32 | Xu et al. 2026 | 10.3389/fimmu.2026.1731920 | 2026 | Phase 2 nonrandomized trial (neoadjuvant and/or adjuvant); 25 enrolled/17 evaluable | 25 | N | descriptive | Y | ? | Y | ? | Y | low | Dual |
 | 33 | Gambale et al. 2022 | 10.1136/jitc-2021-003540 | 2022 | Narrative review / perspective (no primary pSCC cohort) | NR | N | NA | — | — | — | — | — | NA | Dual |
 | — | Ahmed2020 | 10.3390/jcm9103334 | 2020 | observational / not fully specified | 54 | Y | non_randomized | Y | ? | Y | Y | ? | low | Single |
-| — | Alencar2022 | 10.3389/fonc.2022.910335 | 2022 | RCT | 30 | Y | rct | Y | ? | ? | ? | ? | low | Single |
+| — | Alencar2022 | 10.3389/fonc.2022.910335 | 2022 | Narrative review | NR | Y | NA | — | — | — | — | — | NA | Single |
 | — | An2025 | 10.1016/j.ccell.2025.03.023 | 2025 | observational / not fully specified | 12 | N | descriptive | Y | ? | Y | Y | ? | low | Single |
 | — | Aydin2021 | 10.1016/j.intimp.2021.107481 | 2021 | observational / not fully specified | NR | N | descriptive | ? | ? | ? | Y | ? | low | Single |
 | — | Benjamin2024 | 10.3389/fonc.2024.1457006 | 2024 | observational / not fully specified | 30 | N | non_randomized | Y | ? | Y | ? | ? | low | Single |
 | — | Buonerba2021 | 10.2144/fsoa-2021-0044 | 2021 | retrospective cohort/observational | 35 | N | non_randomized | Y | ? | Y | Y | ? | low | Single |
-| — | Canete-Portillo2026 | 10.1177/10668969251362475 | 2026 | retrospective cohort/observational | 35 | Y | non_randomized | Y | Y | Y | ? | ? | low | Single |
+| — | Canete-Portillo2026 | 10.1177/10668969251362475 | 2026 | Retrospective TMA-based immunohistochemical study (single TMA block selected from a larger cohort) | 23 | P | non_randomized | N | Y | N | N | Y | low | P.B. alone |
 | — | Carneiro2025 | 10.18632/oncotarget.28715 | 2025 | observational / not fully specified | 30 | Y | non_randomized | Y | ? | Y | Y | ? | low | Single |
 | — | Chahoud2020 | 10.3389/fonc.2020.615298 | 2020 | case report | NR | Y | descriptive | ? | ? | ? | Y | ? | low | Single |
-| — | Chaux2025 | 10.1016/j.path.2024.12.001 | 2025 | observational / not fully specified | NR | Y | non_randomized | ? | ? | ? | ? | ? | low | Single |
+| — | Chaux2025 | 10.1016/j.path.2024.12.001 | 2025 | Other: narrative review | NR | Y | NA | — | — | — | — | — | NA | P.B. alone |
 | — | Chen2022 | 10.3390/curroncol30010026 | 2022 | case report | NR | Y | descriptive | ? | ? | ? | Y | ? | low | Single |
 | — | Chipollini2021 | 10.1002/cam4.4258 | 2021 | retrospective cohort/observational | NR | Y | non_randomized | Y | Y | ? | Y | ? | low | Single |
 | — | Cocks2017 | 10.1016/j.humpath.2016.09.003 | 2017 | observational / not fully specified | 21 | Y | descriptive | Y | ? | Y | Y | ? | low | Single |
@@ -88,7 +89,7 @@ Reviews and evidence syntheses (systematic reviews, meta-analyses, narrative rev
 | — | Kim2021 | 10.1007/s00432-021-03514-9 | 2021 | retrospective cohort/observational | 37 | Y | descriptive | Y | Y | Y | Y | ? | moderate | Single |
 | — | Li2022 | 10.3389/fonc.2022.837547 | 2022 | narrative review | NR | N | NA | — | — | — | — | — | NA | Single |
 | — | Li2026 | 10.1007/s00262-026-04348-5 | 2026 | observational / not fully specified | 11 | N | descriptive | Y | ? | Y | Y | ? | low | Single |
-| — | Lloyd2024 | 10.1038/s41585-024-00932-5 | 2024 | clinical trial / interventional | 125 | Y | rct | ? | ? | ? | Y | ? | low | Single |
+| — | Lloyd2024 | 10.1038/s41585-024-00932-5 | 2024 | Comment (one page) | NR | N | NA | — | — | — | — | — | NA | Single |
 | — | Lohse2024 | 10.1038/s41598-024-70855-z | 2024 | observational / not fully specified | NR | Y | descriptive | ? | Y | ? | Y | Y | low | Single |
 | — | Long2022 | 10.12998/wjcc.v10.i33.12305 | 2022 | narrative review | NR | N | NA | — | — | — | — | — | NA | Single |
 | — | Lv2022 | 10.3390/curroncol29110632 | 2022 | narrative review | NR | N | NA | — | — | — | — | — | NA | Single |
@@ -102,15 +103,15 @@ Reviews and evidence syntheses (systematic reviews, meta-analyses, narrative rev
 | — | Mumba2024 | 10.1371/journal.pone.0300729 | 2024 | cross-sectional | 35 | Y | non_randomized | Y | ? | Y | Y | ? | low | Single |
 | — | Mumba2025 | 10.3389/fonc.2025.1568764 | 2025 | prospective observational | NR | Y | non_randomized | ? | Y | ? | Y | ? | low | Single |
 | — | Nazha2023 | 10.1002/cncr.34982 | 2023 | observational / not fully specified | 108 | Y | non_randomized | Y | Y | Y | ? | ? | low | Single |
-| — | Necchi2022 | 10.1093/oncolo/oyac144 | 2022 | clinical trial / interventional | NR | Y | rct | ? | ? | ? | ? | ? | low | Single |
+| — | Necchi2022 | 10.1093/oncolo/oyac144 | 2022 | Retrospective genomic profiling study (descriptive) | 230 | Y | descriptive | Y | ? | Y | ? | Y | low | Single |
 | — | Ottenhof2017 | 10.1016/j.juro.2016.09.088 | 2017 | observational / not fully specified | 37 | Y | non_randomized | Y | Y | Y | Y | ? | moderate | Single |
 | — | Pagliaro2024 | 10.3390/cancers16112086 | 2024 | prospective observational | NR | Y | non_randomized | ? | ? | ? | ? | ? | low | Single |
 | — | Pan2025 | 10.3389/fonc.2025.1569124 | 2025 | case report | NR | Y | descriptive | ? | ? | ? | Y | ? | low | Single |
 | — | Pekarek2022 | 10.3390/jpm12091364 | 2022 | narrative review | NR | N | NA | — | — | — | — | — | NA | Single |
 | — | Rafael2022 | 10.3390/jcm11041101 | 2022 | observational / not fully specified | NR | Y | descriptive | ? | ? | ? | Y | ? | low | Single |
 | — | Ribera-Cortada2021 | 10.3390/ijms23010251 | 2021 | systematic review | NR | Y | NA | — | — | — | — | — | NA | Single |
-| — | Rouvinov2023 | 10.3390/jpm13111623 | 2023 | RCT | 18 | N | rct | Y | ? | ? | ? | ? | low | Single |
-| — | S2024 | 10.1101/2024.12.11.24318853 | 2024 | observational / not fully specified | 108 | N | descriptive | Y | Y | Y | Y | ? | moderate | Single |
+| — | Rouvinov2023 | 10.3390/jpm13111623 | 2023 | Retrospective observational case series | 4 (3 evaluable) | N | descriptive | ? | N | Y | ? | Y | low | Single |
+| — | Canete-Portillo 2024 | 10.1101/2024.12.11.24318853 | 2024 | Retrospective TMA-based immunohistochemical study with linear-regression 'machine learning' model | 108 | N | non_randomized | ? | ? | Y | N | ? | low | P.B. alone |
 | — | Sangkhamanon2023 | 10.3892/br.2023.1627 | 2023 | observational / not fully specified | 43 | N | non_randomized | Y | Y | Y | Y | ? | moderate | Single |
 | — | Santucci2026 | 10.3390/cancers18101595 | 2026 | systematic review | NR | N | NA | — | — | — | — | — | NA | Single |
 | — | Schieber2025 | 10.1186/s40164-025-00629-4 | 2025 | retrospective cohort/observational | 10 | Y | non_randomized | Y | ? | Y | ? | ? | low | Single |

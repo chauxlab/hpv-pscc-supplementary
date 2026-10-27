@@ -1,0 +1,13 @@
+record_id,study_label,doi,field,previous_value,corrected_value,source_of_correction
+REC-HPVPSCC-000121,Alencar2022,10.3389/fonc.2022.910335,publication_type / study_design,original_research / RCT,narrative_review / narrative review,"full text (Front Oncol: ""REVIEW... This review aims to present"")"
+REC-HPVPSCC-000121,Alencar2022,10.3389/fonc.2022.910335,n_patients,30,NR,full text
+REC-HPVPSCC-000121,Alencar2022,10.3389/fonc.2022.910335,mmat_category / c1-c5 / overall,rct / Y ? ? ? ? / low,NA / - / NA,review without primary data
+REC-HPVPSCC-000194,Lloyd2024,10.1038/s41585-024-00932-5,publication_type / study_design,trial / clinical trial,narrative_review / one-page comment,PubMed record PMID 39122985 (type Comment); the PDF archived as REC-HPVPSCC-000194 was Buonerba 2017 (Future Oncol)
+REC-HPVPSCC-000194,Lloyd2024,10.1038/s41585-024-00932-5,n_patients / hpv_stratified,125 / yes,NR / no,previous values came from the wrong PDF
+REC-HPVPSCC-000194,Lloyd2024,10.1038/s41585-024-00932-5,mmat_category / c1-c5 / overall,rct / ? ? ? Y ? / low,NA / - / NA,comment without primary data
+REC-HPVPSCC-000124,Necchi2022,10.1093/oncolo/oyac144,publication_type / study_design,trial / clinical trial,original_research / retrospective genomic profiling study (descriptive),"full text (Oncologist 2022;27:1016; ""retrospective and descriptive study nature"")"
+REC-HPVPSCC-000124,Necchi2022,10.1093/oncolo/oyac144,n_patients,NR,230 (penile; 1917 pelvic/perineal SCC overall),full text
+REC-HPVPSCC-000124,Necchi2022,10.1093/oncolo/oyac144,mmat_category / c1-c5 / overall,rct / ? ? ? ? ? / low,descriptive / Y ? Y ? Y / low,full text (samples submitted for profiling; no inferential tests; selection bias acknowledged)
+REC-HPVPSCC-000166,Rouvinov2023,10.3390/jpm13111623,study_design,RCT,retrospective observational case series,"full text (J Pers Med 2023;13:1623; ""retrospective non-interventional observational study"")"
+REC-HPVPSCC-000166,Rouvinov2023,10.3390/jpm13111623,n_patients,18,4 eligible (3 evaluable) of 9 screened,full text
+REC-HPVPSCC-000166,Rouvinov2023,10.3390/jpm13111623,mmat_category / c1-c5 / overall,rct / Y ? ? ? ? / low,descriptive / ? N Y ? Y / low,full text
