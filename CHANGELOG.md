@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-07 — Second proof round (Manuscript 4GARYD)
+
+Production asked for the variable *n* to be italicized inside Figure 1. `manuscript/07_hpv-scc-figure1-prisma.png` was replaced by the corrected figure (same layout and same numbers: 437/307/23, 767, 449, 318, 150, 168, 45, 123, 2, 119 reports/studies as in the text). The figure is the only content change in this repository. File S2 (`manuscript/hpv-scc-supplementary-included-studies.md`) is unchanged; following the journal's guidelines for references in supplementary files, it is now provided only here and no longer in the journal's supplementary document.
+
 ## 2026-10-27 — Corrections made at proof stage (Manuscript 4GARYD)
 
 Production review of the galley proofs showed that four included studies co-authored by A.C. appeared in File S2, while only one (reference 12) had been appraised independently. The following was done and is reflected in the proofs approved by both authors.
