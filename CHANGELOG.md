@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-18 — Fourth and fifth proof rounds (Manuscript 4GARYD)
+
+Production asked that the table of 119 studies, which cites references by number, not remain in the journal's supplementary document without the full reference list. It is now provided only here as **File S3** (`manuscript/hpv-scc-supplementary-file-s3.md` and `.csv`, formerly Table S4), next to File S2. Content is unchanged except that the appraisal source of reference 12 (Canete-Portillo et al. 2026) now reads "P.B. alone" instead of "Dual", consistent with the manuscript and the conflict-of-interest statement (four rows are now "P.B. alone": references 12 and File S2 entries 10, 11 and 14). The journal supplement keeps the two PRISMA 2020 checklists (Tables S1 and S2).
+
 ## 2026-11-07 — Second proof round (Manuscript 4GARYD)
 
 Production asked for the variable *n* to be italicized inside Figure 1. `manuscript/07_hpv-scc-figure1-prisma.png` was replaced by the corrected figure (same layout and same numbers: 437/307/23, 767, 449, 318, 150, 168, 45, 123, 2, 119 reports/studies as in the text). The figure is the only content change in this repository. File S2 (`manuscript/hpv-scc-supplementary-included-studies.md`) is unchanged; following the journal's guidelines for references in supplementary files, it is now provided only here and no longer in the journal's supplementary document.

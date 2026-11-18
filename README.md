@@ -11,13 +11,13 @@ This repository documents the full review process — protocol, search strategie
 - **`screening/`** — title/abstract consensus decisions (2 independent reviewers) and full-text retrieval/screening outcomes, including the 45 reports that could not be retrieved.
 - **`extraction/`** — the full single-reviewer extraction database for all 121 included reports, plus the independently dual-extracted and reconciled data for the 24 sources cited individually in the manuscript (Category A), with the field-by-field reconciliation log.
 - **`risk_of_bias/`** — Mixed Methods Appraisal Tool (MMAT 2018) assessments: single-reviewer criterion-level judgments for the full corpus, and dual-reconciled judgments with written per-domain rationale for the 24 Category A sources.
-- **`manuscript/`** — the manuscript as submitted (updated on 2026-10-27 only where figures changed; see `CHANGELOG.md`), tables, reference list (RIS), PRISMA 2020 flow diagram, completed PRISMA 2020 checklist, and the two supplementary tables (S2: complete list of 119 included studies; S4: study-level characteristics and MMAT criterion-level appraisal for all 119 studies).
+- **`manuscript/`** — the manuscript as submitted (updated on 2026-10-27 only where figures changed; see `CHANGELOG.md`), tables, reference list (RIS), PRISMA 2020 flow diagram, completed PRISMA 2020 checklist, and the two supplementary tables (File S2: complete list of 119 included studies; File S3: study-level characteristics and MMAT criterion-level appraisal for all 119 studies, formerly Table S4).
 
 ## Key facts
 
 - **Corpus:** 767 records identified (Europe PMC 437, MEDLINE 307, authors' curated bibliography 23) → 318 unique after deduplication → 168 included at title/abstract → 123 full texts retrieved (45 unavailable) → 121 reports included (2 excluded) → 119 unique studies (2 preprint/publication pairs merged).
 - **Screening:** independent, dual-reviewer at both title/abstract and full-text stages, consensus-resolved.
-- **Extraction/appraisal:** dual, independent, and reconciled for the 24 Category A sources (except reference 12, appraised by one reviewer alone due to a co-authorship conflict disclosed in the manuscript); extracted and appraised independently by P.B. alone for three further studies co-authored by A.C. (File S2 entries 10, 11 and 14); single-reviewer with quality-control checks for the remaining 95 studies.
+- **Extraction/appraisal:** dual, independent, and reconciled for the 24 Category A sources (reference 12 was extracted and appraised by P.B. alone due to a co-authorship conflict disclosed in the manuscript); extracted and appraised independently by P.B. alone for three further studies co-authored by A.C. (File S2 entries 10, 11 and 14); single-reviewer with quality-control checks for the remaining 95 studies.
 - **Appraisal tool:** MMAT 2018, criterion-level (c1–c5) judgments available for every empirical study in the corpus.
 
 ## Authorship and conflicts
