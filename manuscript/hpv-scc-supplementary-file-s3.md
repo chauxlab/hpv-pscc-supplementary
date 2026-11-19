@@ -4,9 +4,9 @@ Supplementary file to: Immune microenvironment of penile squamous cell carcinoma
 
 | Ref | Study | DOI | Year | Design | N | HPV strat. | MMAT category | c1 | c2 | c3 | c4 | c5 | Overall | Appraisal |
 |---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
-| [10] | Ottenhof et al. 2018 | 10.3389/fimmu.2018.01253 | 2018 | Retrospective cohort (whole-mount IHC + TMA) | 213 | Y | non_randomized | ? | Y | Y | Y | Y | moderate | Dual |
-| [11] | Chu et al. 2020 | 10.3390/cancers12071796 | 2020 | Retrospective cohort, unsupervised immunophenotyping | 178 | Y | non_randomized | Y | ? | ? | Y | Y | low | Dual |
-| [12] | Canete-Portillo et al. 2026 | 10.1177/10668969251361176 | 2026 | Cross-sectional TMA study (spot-level), no survival endpoint | 108 | Y | non_randomized | ? | ? | N | N | Y | low | P.B. alone |
+| [10] | Canete-Portillo et al. 2026 | 10.1177/10668969251361176 | 2026 | Cross-sectional TMA study (spot-level), no survival endpoint | 108 | Y | non_randomized | ? | ? | N | N | Y | low | P.B. alone |
+| [11] | Ottenhof et al. 2018 | 10.3389/fimmu.2018.01253 | 2018 | Retrospective cohort (whole-mount IHC + TMA) | 213 | Y | non_randomized | ? | Y | Y | Y | Y | moderate | Dual |
+| [12] | Chu et al. 2020 | 10.3390/cancers12071796 | 2020 | Retrospective cohort, unsupervised immunophenotyping | 178 | Y | non_randomized | Y | ? | ? | Y | Y | low | Dual |
 | [13] | Rafael et al. 2021 | 10.3389/fimmu.2021.682030 | 2021 | Retrospective cohort, compartment-resolved image analysis | 103 | Y | non_randomized | ? | Y | Y | ? | ? | low | Dual |
 | [14] | Fazili et al. 2026 | 10.3390/cancers18020257 | 2026 | Retrospective cohort, multiplex IF + geospatial analysis | 57 | Y | non_randomized | ? | Y | Y | N | Y | low | Dual |
 | [15] | Tao et al. 2025 | 10.1038/s41467-025-67356-6 | 2025 | Translational study: scRNA-seq discovery + FFPE IHC validation | 85 | Y | non_randomized | ? | Y | ? | N | ? | low | Dual |

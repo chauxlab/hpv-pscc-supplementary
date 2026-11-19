@@ -1,7 +1,7 @@
 ref,study,doi,year,design,n,hpv_stratified,mmat_category,c1,c2,c3,c4,c5,overall_judgment,appraisal_source
-10,Ottenhof et al. 2018,10.3389/fimmu.2018.01253,2018,Retrospective cohort (whole-mount IHC + TMA),213,yes,non_randomized,cant_tell,yes,yes,yes,yes,moderate,dual-reconciled
-11,Chu et al. 2020,10.3390/cancers12071796,2020,"Retrospective cohort, unsupervised immunophenotyping",178,yes,non_randomized,yes,cant_tell,cant_tell,yes,yes,low,dual-reconciled
-12,Canete-Portillo et al. 2026,10.1177/10668969251361176,2026,"Cross-sectional TMA study (spot-level), no survival endpoint",108,yes,non_randomized,cant_tell,cant_tell,no,no,yes,low,P.B. alone
+10,Canete-Portillo et al. 2026,10.1177/10668969251361176,2026,"Cross-sectional TMA study (spot-level), no survival endpoint",108,yes,non_randomized,cant_tell,cant_tell,no,no,yes,low,P.B. alone
+11,Ottenhof et al. 2018,10.3389/fimmu.2018.01253,2018,Retrospective cohort (whole-mount IHC + TMA),213,yes,non_randomized,cant_tell,yes,yes,yes,yes,moderate,dual-reconciled
+12,Chu et al. 2020,10.3390/cancers12071796,2020,"Retrospective cohort, unsupervised immunophenotyping",178,yes,non_randomized,yes,cant_tell,cant_tell,yes,yes,low,dual-reconciled
 13,Rafael et al. 2021,10.3389/fimmu.2021.682030,2021,"Retrospective cohort, compartment-resolved image analysis",103,yes,non_randomized,cant_tell,yes,yes,cant_tell,cant_tell,low,dual-reconciled
 14,Fazili et al. 2026,10.3390/cancers18020257,2026,"Retrospective cohort, multiplex IF + geospatial analysis",57,yes,non_randomized,cant_tell,yes,yes,no,yes,low,dual-reconciled
 15,Tao et al. 2025,10.1038/s41467-025-67356-6,2025,Translational study: scRNA-seq discovery + FFPE IHC validation,85,yes,non_randomized,cant_tell,yes,cant_tell,no,cant_tell,low,dual-reconciled

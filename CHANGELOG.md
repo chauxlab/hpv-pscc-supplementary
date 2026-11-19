@@ -1,5 +1,10 @@
 # Changelog
 
+## 2026-11-19 — Final production check (Manuscript 4GARYD)
+
+To keep the references in numerical order of citation, production renumbered three references in the published article: Canete-Portillo et al. 2026 is now reference 10 (formerly 12), Ottenhof et al. 2018 is reference 11 (formerly 10) and Chu et al. 2020 is reference 12 (formerly 11). The `Ref` column of **File S3** (`manuscript/hpv-scc-supplementary-file-s3.md` and `.csv`) and the mentions of the P.B.-alone reference in `README.md` were updated accordingly, and the three rows were reordered. No data, appraisal or count changed. The entry numbers of File S2 (an alphabetical list) are not reference numbers and are unchanged (entries 10, 11 and 14 remain those co-authored by A.C.).
+
+
 ## 2026-11-18 — Fourth and fifth proof rounds (Manuscript 4GARYD)
 
 Production asked that the table of 119 studies, which cites references by number, not remain in the journal's supplementary document without the full reference list. It is now provided only here as **File S3** (`manuscript/hpv-scc-supplementary-file-s3.md` and `.csv`, formerly Table S4), next to File S2. Content is unchanged except that the appraisal source of reference 12 (Canete-Portillo et al. 2026) now reads "P.B. alone" instead of "Dual", consistent with the manuscript and the conflict-of-interest statement (four rows are now "P.B. alone": references 12 and File S2 entries 10, 11 and 14). The journal supplement keeps the two PRISMA 2020 checklists (Tables S1 and S2).
