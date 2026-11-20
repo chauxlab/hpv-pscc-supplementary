@@ -1,6 +1,6 @@
 # Changelog
 
-## 2026-11-20 — Article published
+## v1.2.2 — 2026-11-20 — Article published
 
 The article was published on 2026-11-20 in *Academia Immunity and Disease* 2026;2(4), DOI 10.20935/AcadImmunoDis8587. `README.md` now cites the published article (title as published, journal, DOI) instead of describing the manuscript as submitted. Documentation only: no data, appraisal or count changed.
 
