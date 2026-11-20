@@ -1,6 +1,6 @@
 # Supplementary materials — The Immune Microenvironment in Penile Squamous Cell Carcinoma
 
-Open supplementary materials for the integrative review **"The Immune Microenvironment in Penile Squamous Cell Carcinoma: Distinctions Between HPV-Driven and HPV-Independent Pathways"** (Alcides Chaux, Paola Britos), submitted to *Academia Immunity and Disease* (Manuscript ID 4GARYD).
+Open supplementary materials for the integrative review **"Immune microenvironment of penile squamous cell carcinoma: HPV-driven versus HPV-independent"** (Alcides Chaux, Paola Britos), published in *Academia Immunity and Disease* 2026;2(4) (Manuscript ID 4GARYD), DOI: [10.20935/AcadImmunoDis8587](https://doi.org/10.20935/AcadImmunoDis8587).
 
 This repository documents the full review process — protocol, search strategies, screening decisions, data extraction, and critical appraisal — for the corpus of 121 full-text–included reports (119 unique studies), supporting independent verification of every reported figure in the manuscript.
 
@@ -26,4 +26,8 @@ Screening and the dual extraction/appraisal of the 24 Category A sources were pe
 
 ## Citation
 
-Please cite the published manuscript. This repository is archived on Zenodo with DOI: `10.5281/zenodo.22969993` (concept DOI, always resolves to the latest version).
+Please cite the published article:
+
+> Chaux A, Britos P. Immune microenvironment of penile squamous cell carcinoma: HPV-driven versus HPV-independent. *Academia Immunity and Disease*. 2026;2(4). https://doi.org/10.20935/AcadImmunoDis8587
+
+This repository is archived on Zenodo with DOI: `10.5281/zenodo.22969993` (concept DOI, always resolves to the latest version).

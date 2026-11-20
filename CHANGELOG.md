@@ -1,5 +1,9 @@
 # Changelog
 
+## 2026-11-20 — Article published
+
+The article was published on 2026-11-20 in *Academia Immunity and Disease* 2026;2(4), DOI 10.20935/AcadImmunoDis8587. `README.md` now cites the published article (title as published, journal, DOI) instead of describing the manuscript as submitted. Documentation only: no data, appraisal or count changed.
+
 ## 2026-11-19 — Final production check (Manuscript 4GARYD)
 
 To keep the references in numerical order of citation, production renumbered three references in the published article: Canete-Portillo et al. 2026 is now reference 10 (formerly 12), Ottenhof et al. 2018 is reference 11 (formerly 10) and Chu et al. 2020 is reference 12 (formerly 11). The `Ref` column of **File S3** (`manuscript/hpv-scc-supplementary-file-s3.md` and `.csv`) and the mentions of the P.B.-alone reference in `README.md` were updated accordingly, and the three rows were reordered. No data, appraisal or count changed. The entry numbers of File S2 (an alphabetical list) are not reference numbers and are unchanged (entries 10, 11 and 14 remain those co-authored by A.C.).
